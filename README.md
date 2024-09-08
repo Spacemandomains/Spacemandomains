@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spacemandomains
-- 👀 I’m a UX designer, frontend dev.
-- 🌱 I’m currently learning Java Script
+- 👀 I’m a UX designer, frontend dev, Indie Hacker
+- 🌱 JAM Stacker
 - 💞️ I’m looking to collaborate on frontend projects.
 - 📫 How to reach me wilfred.leeux9@gmail.com
 
